@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Volei Points</string>
+    <string name="TimeA">Time A</string>
+    <string name="TimeB">Time B</string>
+    <string name="points">+1 Ponto</string>
+    <string name="cortadas">+1 Cortada</string>
+    <string name="setButton">Set</string>
+    <string name="reset">Resetar</string>
+    <string name="pontosA">0</string>
+    <string name="set">1</string>
+    <string name="cortA">0</string>
+</resources>
